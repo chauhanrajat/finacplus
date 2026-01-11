@@ -1,0 +1,16 @@
+{
+  "name": "playwright-finacplus",
+  "version": "1.0.0",
+  "description": "Playwright script",
+  "main": "uitask.js",
+  "scripts": {
+    "test": "node search.js"
+  },
+  "keywords": ["playwright", "automation"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "@playwright/test": "^1.40.0"
+  }
+}
