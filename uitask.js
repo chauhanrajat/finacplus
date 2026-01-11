@@ -11,7 +11,7 @@ const fs = require('fs').promises;
 const { expect } = require('@playwright/test');
 
 /**
- * Main function to automate Google search
+ * Main function to validate book details in DemoQA Book Store Application
  * @param {boolean}  headless - Run browser in headless mode (default: false)
  */
 async function main(headless = false) {
